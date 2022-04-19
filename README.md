@@ -1,5 +1,3 @@
-# Koyeb目前已经识别了这个项目，请谨慎部署
-部署结果：强制退出+封号
 # 某容器云部署Xray高性能代理服务
 
 在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
