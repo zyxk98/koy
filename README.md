@@ -10,9 +10,9 @@
 
 关于本脚本加密sh文件的说明：由于某容器云已识别本脚本，故不得不加密项目的sh文件代码
 
-## 部署步骤
+## K开头的容器云部署步骤
 
-1. fork本仓库
+1. Fork本仓库并改名
 2. 在`Dockerfile`内第3-5行修改自定义设置，说明如下：
 
 `AUUID`：用来部署节点的UUID，如有需要可在[uuidgenerator](https://www.uuidgenerator.net/)生成
